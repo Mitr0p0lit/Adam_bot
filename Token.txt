@@ -1,0 +1,5 @@
+INFORMATION:
+
+TG_bot = https://t.me/Adam_SSC_bot
+
+TOKEN = 7776130295:AAHUQiXUIXEZfpXxuGVeW89ekQIf17wqhCU
